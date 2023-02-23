@@ -2,6 +2,7 @@
 The task involves creating your own engine for working with regular expressions as described by the specification below. The engine will be focused around the IDE and the work within it. In the repository, you can find the `Editor` and `Caret` interfaces which symbolize the editor and the caret, respectively. It’s worth noting that with regular expressions in the task, the patterns aren't just searching for raw text, but rather taking into account the position of the caret in the IDE editor. Something similar happens with Vim regular expressions.
 
 To complete this task, clone this repository and write your own implementation of the method inside `RegexpServiceImpl`.
+
 **We ask you not to create forks or public repositories. All submissions from public repositories will be ignored.**
 
 ### Specification:
